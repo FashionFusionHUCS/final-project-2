@@ -29,7 +29,7 @@ export default function HeaderComponent(props) {
                 </button>
                 <button className="button-tr btn-animated hover-grow" 
                     style={{'color': 'var(--gray)', 'fontSize': '15px'}}
-                    onClick={() => scrollToSection(props.demoComp, 90)}
+                    onClick={() => scrollToSection(props.demoComp, 9)}
                     >
                     Demo
                 </button>
