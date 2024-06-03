@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/deneme-project/static/css/main.0792ed09.css",
+    "main.js": "/deneme-project/static/js/main.372eeec7.js",
+    "static/js/453.79ef8a5e.chunk.js": "/deneme-project/static/js/453.79ef8a5e.chunk.js",
+    "static/media/poster.pdf": "/deneme-project/static/media/poster.a7bdeb93828a0e4f1bf0.pdf",
+    "static/media/bg.png": "/deneme-project/static/media/bg.a569ecf2c9d31c903d79.png",
+    "static/media/hf.png": "/deneme-project/static/media/hf.88b58bfbb277e405e04d.png",
+    "static/media/hcy.jpeg": "/deneme-project/static/media/hcy.f123d7a77954f986b449.jpeg",
+    "static/media/linkedin.png": "/deneme-project/static/media/linkedin.e9fc47830595da087db4.png",
+    "static/media/hido.jpeg": "/deneme-project/static/media/hido.b6f5bf9ba25c54bcfc99.jpeg",
+    "static/media/eke.jpeg": "/deneme-project/static/media/eke.a54f018fdd37998fb108.jpeg",
+    "static/media/nazli.jpg": "/deneme-project/static/media/nazli.c0b56eacc851502a0c17.jpg",
+    "static/media/san_francisco-webfont.woff": "/deneme-project/static/media/san_francisco-webfont.e139542b236db88aaabb.woff",
+    "static/media/python.png": "/deneme-project/static/media/python.c3db4e5aa7969e6625bb.png",
+    "static/media/react.png": "/deneme-project/static/media/react.84a0c7e982bcbc2ceca5.png",
+    "static/media/san_francisco-webfont.woff2": "/deneme-project/static/media/san_francisco-webfont.477feb72793978e5c0d3.woff2",
+    "static/media/cirrus.png": "/deneme-project/static/media/cirrus.7376b8682f18fc2c2c79.png",
+    "static/media/ff2.png": "/deneme-project/static/media/ff2.8ff0535f2e592af54729.png",
+    "static/media/js.png": "/deneme-project/static/media/js.bb29d6397d8b98fb732b.png",
+    "static/media/tensorflow.png": "/deneme-project/static/media/tensorflow.0b9812746751b85f631d.png",
+    "static/media/pytorch.png": "/deneme-project/static/media/pytorch.87ed90042d5f6cb4951e.png",
+    "index.html": "/deneme-project/index.html",
+    "main.0792ed09.css.map": "/deneme-project/static/css/main.0792ed09.css.map",
+    "main.372eeec7.js.map": "/deneme-project/static/js/main.372eeec7.js.map",
+    "453.79ef8a5e.chunk.js.map": "/deneme-project/static/js/453.79ef8a5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0792ed09.css",
+    "static/js/main.372eeec7.js"
+  ]
+}
