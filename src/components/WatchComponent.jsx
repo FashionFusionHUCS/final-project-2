@@ -16,7 +16,7 @@ export default function WatchComponent(props) {
                         container
                         item
                         md={6}
-                        xs={10}
+                        xs={12}
                         direction="row"
                     justifyContent="center"
                     alignItems="center"

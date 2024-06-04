@@ -300,6 +300,24 @@ code {
   /* animation: 1s ease-out 0s 1 slideInFromLeft; */
 }
 
+.boxer {
+  background-color: var(--seffaf);
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+
+  /* width: 50%; */
+  padding: 30px;
+  margin: 0px;
+  
+  font-style: italic;
+  font-size: 19px;
+  color: var(--dark-gray);
+  /* animation: 1s ease-out 0s 1 slideInFromLeft; */
+}
+
 .boxer-l-img {
   padding: 30px;
   margin: 0px;
@@ -400,12 +418,15 @@ code {
 /* Entrance comp*/
 .entrance-component {
   background-color: var(--seffaf);
+  top: 0px;
   height: 900px;
   align-items: center;
   display: flex;
   justify-content: center;
-  margin-bottom: var(--m-bottom);
+  margin-bottom: 10rem;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  margin-top: -130px;
+  padding-top: 130px;
 }
 
 .gradio-component {

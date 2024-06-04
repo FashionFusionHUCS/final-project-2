@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/deneme-project-2/static/css/main.502a1c4e.css",
-    "main.js": "/deneme-project-2/static/js/main.07c21fcf.js",
-    "static/js/453.79ef8a5e.chunk.js": "/deneme-project-2/static/js/453.79ef8a5e.chunk.js",
+    "main.js": "/deneme-project-2/static/js/main.f48fa63d.js",
+    "static/js/453.496b0a01.chunk.js": "/deneme-project-2/static/js/453.496b0a01.chunk.js",
     "static/media/poster.pdf": "/deneme-project-2/static/media/poster.a7bdeb93828a0e4f1bf0.pdf",
     "static/media/bg.png": "/deneme-project-2/static/media/bg.a569ecf2c9d31c903d79.png",
     "static/media/suggestions.png": "/deneme-project-2/static/media/suggestions.bfb768c93e086fd7e3b4.png",
@@ -29,11 +29,11 @@
     "static/media/gradio.svg": "/deneme-project-2/static/media/gradio.5ab6b27e83e2f8217e3a1656438315ef.svg",
     "index.html": "/deneme-project-2/index.html",
     "main.502a1c4e.css.map": "/deneme-project-2/static/css/main.502a1c4e.css.map",
-    "main.07c21fcf.js.map": "/deneme-project-2/static/js/main.07c21fcf.js.map",
-    "453.79ef8a5e.chunk.js.map": "/deneme-project-2/static/js/453.79ef8a5e.chunk.js.map"
+    "main.f48fa63d.js.map": "/deneme-project-2/static/js/main.f48fa63d.js.map",
+    "453.496b0a01.chunk.js.map": "/deneme-project-2/static/js/453.496b0a01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.502a1c4e.css",
-    "static/js/main.07c21fcf.js"
+    "static/js/main.f48fa63d.js"
   ]
 }

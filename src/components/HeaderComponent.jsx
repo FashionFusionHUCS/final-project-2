@@ -19,17 +19,18 @@ export default function HeaderComponent(props) {
             <div className="buttons">
                 <button className="button-tr btn-animated hover-grow" 
                     style={{'color': 'var(--gray)', 'fontSize': '15px'}}
+                    onClick={() => scrollToSection(props.homeComp, 90)}
                     >
                     Home
                 </button>
-                <button className="button-tr btn-animated hover-grow" 
+                {/* <button className="button-tr btn-animated hover-grow" 
                     style={{'color': 'var(--gray)', 'fontSize': '15px'}}
                     >
                     About
-                </button>
+                </button> */}
                 <button className="button-tr btn-animated hover-grow" 
                     style={{'color': 'var(--gray)', 'fontSize': '15px'}}
-                    onClick={() => scrollToSection(props.demoComp, 9)}
+                    onClick={() => scrollToSection(props.demoComp, 90)}
                     >
                     Demo
                 </button>
